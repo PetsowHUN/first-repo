@@ -6,3 +6,5 @@ Ez az újabb sor már a saját gépemen került hozzáadásra.
 
 # Ez már egy újabb fejezet.
 Valamit írok ide is.
+
+Hogyan működik a pull parancs?
